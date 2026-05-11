@@ -1,0 +1,22 @@
+<?php
+return [
+    1 => 'AdvancePayment',
+    2 => 'MeterInsurance',
+    3 => 'OtherIncomeReceipt',
+    4 => 'NEAPaymentEntry',
+    5 => 'BlacklistPeriod',
+    6 => 'ChangeMeter',
+    7 => 'DiscountAndFine',
+    8 => 'MahasulReceiptEntry',
+    9 => 'MeterDepositTransaction',
+    10 => 'MeterIssue',
+    11 => 'NameTransferEntry',
+    12 => 'NonMemberPayment',
+    13 => 'RateAndCapacity',
+    14 => 'ShareTransaction',
+    15 => 'UpgradeMeterCapacity',
+    16 => 'Fine',
+    17 => 'ExpenseAndReceivableTracker',
+    18 => 'BankVoucher',
+    19 => 'JournalVoucher',
+];
